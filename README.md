@@ -1,4 +1,4 @@
-# iOS React Native Mobile Game ☀😃 Prompt Pack 🎇 by [Machine Minds AI]()
+# iOS React Native Mobile Game ☀😃 Prompt Pack 🎇 by [Machine Minds AI](https://godsol.gumroad.com)
 
 
 > 🧞‍♂️ **Using This Pack**: Paste the prompts into ChatGPT or similar. For a structured approach, try Lil Cogo, below. Follow up to build out each function.
